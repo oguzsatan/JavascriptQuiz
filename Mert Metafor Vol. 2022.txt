@@ -1,0 +1,41 @@
+-> option1Field vb.tanımlamalar ile HTML içerisindeki şık alanlarına değişkenler üzerinden erişebiliyoruz.
+
+-> bu alanlara eklediğimiz "olay dinleyicileri" sayesinde bu şıkların bulunduğu divlere bir "tıklama eylemi" (click event) gerçekleştirildiği zaman submitAnswer metodunun tetiklenmesini sağlıyoruz.
+
+-> Bunu da ilgili alana addEventListener metodu ile bu tıklama olayını dinleyen bir olay dinleyici bağklayarak yapıyoruz.
+
+-> option1Field.addEventListener("click", submitAnswer) satırı sayesinde option1Field'ın ifade ettiği opt-1 id değerine sağhip alana bir tıklama yapıldığğında bir event fırlatılıyor. Bu evente dair tüm bilgiler submitAnswer fonksiyonuna gönderilrek o fonksiyon çağrılıyor.
+
+-> submitAnswer(e) olarak tanımladığımız için fonksiyon kendisine gelen olaya dair detayları e değişkeni üzerinden öğrenebiliyor.
+
+
+Benzetmeli senaryo:
+
+-> Ahmet Bey'in evi = A şıkkının div'i
+-> Mehmet Bey'in evi = B şıkkını divi
+
+-> Her şeye meraklı Ayşe Teyze = event listener
+
+-> Ahmet Bey'in kızının eve geç gelmesi = event
+-> Mehmet Bey'in kızının eve geç gelmesi = event
+
+-> Karşı komşu Fatma Teyzeye haber vermek = fonksiyon
+
+-> Ahmet Bey'in kızının geç kalması olayının kahramanı = e.target
+
+Ahmet Bey'in evine kızı geç geldiği zaman bunu event listener olan Ayşe Teyze dinler. Bu olay (event) tetiklendiğinde bunun haberini verir (submitAnswer tetiklenir). Bu haber verme işlemi sırasında kullanılan olay'ın (event / e) kahramanı (e.target) Ahmet Bey'in kızıdır. Ayşe Teyze Ahmet Bey'in kızının geç kaldığını Fatma Teyzeye yetiştirir. 
+
+
+option1Field.addEventListener("click", submitAnswer);
+ahmetBeyinEvi.ayseTeyzeEviIzlesin("kiz gec kalirsa", fatmayaHaberVer);
+
+
+function fatmayaHaberVer(kizinGecKalmaOlayi){
+        
+	...
+
+        let gecKalanKizinAdi = document.getElementById(kizinGecKalmaOlayi.gecKalanKisi.Adi).innerHTML;
+
+        ...
+
+    }

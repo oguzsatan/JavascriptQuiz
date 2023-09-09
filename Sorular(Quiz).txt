@@ -1,0 +1,152 @@
+{
+      "difficulty": 7,
+      "question": "İslamiyeti kabul eden ilk Türk Devleti hangisidir?",
+      "correct_answer": "Karahanlılar",
+      "answers": [
+        "Oğuzlar",
+        "Mengücekler",
+        "Karahanlılar",
+        "Selçuklu"
+      ]
+    },
+
+
+{
+      "difficulty": 5,
+      "question": "Abd başkanı Trump ile Kuzey Kore lideri Kim Jong Un arasında Haziran 2018'de gerçekleşen görüşme hangi ülkede yapılmıştır?",
+      "correct_answer": "Singapur",
+      "answers": [
+        "Singapur",
+        "Çin",
+        "Japonya",
+        "Filipinler"
+      ]
+    },
+
+
+{
+      "difficulty": 9,
+      "question": "Tiyatroda kendi kendine konuşma olarak bilinen türün adı nedir?",
+      "correct_answer": "Monolog",
+      "answers": [
+        "Tırad",
+        "Monolog",
+        "Aksiyon",
+        "Doğaçlama"
+      ]
+    },
+
+
+{
+      "difficulty": 5,
+      "question": "Sinekli Bakkal” Romanının Yazarı Hangisidir?",
+      "correct_answer": "Halide Edip Adıvar",
+      "answers": [
+        "Ziya Gökalp",
+        "Ömer Seyfettin",
+        "Reşat Nuri Güntekin",
+        "Halide Edip Adıvar"
+      ]
+    },
+
+
+{
+      "difficulty": 3,
+      "question": "İlk Çağ Uygarlıklarından Hangisi Yazıyı İcat Etmiştir?",
+      "correct_answer": "Sümerler",
+      "answers": [
+        "Hititler",
+        "Urartular",
+        "Sümerler",
+        "Elamlar"
+      ]
+    },
+
+
+{
+      "difficulty": 2,
+      "question": "Romen Rakamında Hangi Sayı Yoktur?",
+      "correct_answer": "0",
+      "answers": [
+        "0",
+        "50",
+        "100",
+        "1000"
+      ]
+    },
+
+
+{
+      "difficulty": 3,
+      "question": "Hangi İlimizde Demiryolu Yoktur?",
+      "correct_answer": "Muğla",
+      "answers": [
+        "Aydın",
+        "Muğla",
+        "Kütahya",
+        "Batman"
+      ]
+    },
+
+{
+      "difficulty": 4,
+      "question": "Aspirinin Hammaddesi Nedir?",
+      "correct_answer": "Söğüt",
+      "answers": [
+        "Meşe",
+        "Köknar",
+        "Kavak",
+        "Söğüt"
+      ]
+    },
+
+
+{
+      "difficulty": 5,
+      "question": "Bir Gün Kaç Saniyedir?",
+      "correct_answer": "86400",
+      "answers": [
+        "84800",
+        "88600",
+        "86400",
+        "86000"
+      ]
+    },
+
+{
+      "difficulty": 8,
+      "question": "Hangisi Mevlâna Celâleddin-i Rumî tarafından yazılmamıştır?",
+      "correct_answer": "Risaletü'n-Nushiye",
+      "answers": [
+        "Risaletü'n-Nushiye",
+        "Mesnevi",
+        "Mektubât",
+        "Fıhi Ma Fıh"
+      ]
+    },
+
+
+{
+      "difficulty": 7,
+      "question": "Hangisi "Hacı Bektaş Veli"nin ünlü eseridir?",
+      "correct_answer": "Makalat",
+      "answers": [
+        "Kabusname",
+        "Budalaname",
+        "Fütüvvetname",
+        "Makalat"
+      ]
+    },
+
+
+{
+      "difficulty": 6,
+      "question": "Hangi Ülkenin İki Tane Başkenti Vardır?",
+      "correct_answer": "Güney Afrika",
+      "answers": [
+        "Güney Afrika",
+        "Senegal",
+        "El Salvador",
+        "Kamboçya"
+      ]
+    },
